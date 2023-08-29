@@ -1,11 +1,10 @@
-<img align="center" height="400" width="1200" src="https://www.gadgetvoize.com/wp-content/uploads/2020/10/github-logo-1000x600.jpeg">
+![logo](https://github.com/varun-singh-0518/varun-singh-0518/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Varun Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-singh-0518&label=Profile%20views&color=0e75b6&style=flat" alt="varun-singh-0518" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-singh-0518" alt="varun-singh-0518" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-singh-0518&label=Profile%20views&color=0e75b6&style=flat" alt="varun-singh-0518" /> </p>
 
 - 🌱 I’m currently learning **Node.js , Express**
 
